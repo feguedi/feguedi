@@ -1,5 +1,7 @@
 # Hola, soy Ixe
 
+~~Ingeniero de Software~~, amante de los perritos, open source y del futbol americano⚡🏈
+
 ## Aplicaciones web
 
 * **ES2018**
@@ -14,7 +16,3 @@
 ## Aplicaciones móviles
 
 > ...
-
------------
-
-~~Ingeniero de Software~~, amante de los perritos, open source y del futbol americano⚡🏈

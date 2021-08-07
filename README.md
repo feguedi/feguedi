@@ -15,4 +15,5 @@
 
 ## Aplicaciones móviles
 
-> ...
+> Flutter (Dart)
+> Qt (C++)

@@ -15,5 +15,5 @@
 
 ## Aplicaciones móviles
 
-> Flutter (Dart)
-> Qt (C++)
+* Flutter (Dart)
+* Qt (C++)

@@ -1,6 +1,6 @@
 # Hola, soy Ixe
 
-~~Ingeniero de Software~~, amante de los perritos, open source y del futbol americano⚡🏈
+~~Ingeniero de Software~~, amante de los perritos, de la filosofía open source y del futbol americano⚡🏈
 
 ## Aplicaciones web
 

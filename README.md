@@ -3,7 +3,7 @@
 Hi 👋 My name is Ixe Fernández
 ==============================
 
-~~Software engineer~~, open source enthusiast, dogs lover and football player ⚡🏈 #BoltUp
+~~Software engineer~~, open source enthusiast and football player ⚡🏈 #BoltUp
 -------------------------------------------------------------------------------------
 
 *   🌍  I'm based in Querétaro, México
